@@ -1,4 +1,4 @@
-Hi 👋 My name is Pamela Ortiz (she/they)
+Hello World 👋 My name is Pamela Ortiz (she/they)
 =============================
 Aspiring UI/Frontend Developer from in New York City, NY. 
 ------------------------------
