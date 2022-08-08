@@ -1,5 +1,5 @@
 Hello World 👋 My name is Pamela Ortiz (she/they)
-<img align="right" alt="welcome_pic/gif" src= "https://media2.giphy.com/media/IblZiTbdRjV6lMEapl/giphy.gif?cid=ecf05e47xa2b2lf20hmxo8e7g07tl3mw5i0nel6687pz9kk5&rid=giphy.gif&ct=s"/>
+<img align="right" alt="welcome_pic/gif" src= "https://media0.giphy.com/media/XTcqhnTrnFPw3NHAiY/giphy.gif?cid=ecf05e47ham7uslcde03uj1umhqj57x1c7pwkopyd285fnk6&rid=giphy.gif&ct=s"/>
 =============================
 Aspiring UI/Frontend Developer from in New York City, NY. 
 ------------------------------
