@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/736x/e9/cd/4c/e9cd4c83b0c074a1ce326415a1a0b8a9.jpg)
+![](https://github.com/pamelamor/banner.png) 
 
 <h1 align="center" >Hello World! My name is Pamela Ortiz (she/they)</h1>
 <h2 align="center">Aspiring UI/Frontend Developer from in New York City, NY.</h2>
