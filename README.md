@@ -1,7 +1,6 @@
 Hello World! My name is Pamela Ortiz (she/they)
-<img align="right" alt="welcome_pic/gif" src= "https://media0.giphy.com/media/XTcqhnTrnFPw3NHAiY/giphy.gif?cid=ecf05e47ham7uslcde03uj1umhqj57x1c7pwkopyd285fnk6&rid=giphy.gif&ct=s" width="280" height="220"/>
 =============================
-Aspiring UI/Frontend Developer from in New York City, NY. 
+Aspiring UI/Frontend Developer from in New York City, NY.  <img align="right" alt="welcome_pic/gif" src= "https://media0.giphy.com/media/XTcqhnTrnFPw3NHAiY/giphy.gif?cid=ecf05e47ham7uslcde03uj1umhqj57x1c7pwkopyd285fnk6&rid=giphy.gif&ct=s" width="280" height="220"/>
 ------------------------------
 * I’m currently working on a reading list tracker website called WILOFF [link] (link)
 * I’m looking to collaborate on creative projects related to education, inclusivity and lifestyle improving technology.
