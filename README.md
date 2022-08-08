@@ -1,16 +1,16 @@
-Hello World 👋 My name is Pamela Ortiz (she/they)
+Hello World! My name is Pamela Ortiz (she/they)
 <img align="right" alt="welcome_pic/gif" src= "https://media0.giphy.com/media/XTcqhnTrnFPw3NHAiY/giphy.gif?cid=ecf05e47ham7uslcde03uj1umhqj57x1c7pwkopyd285fnk6&rid=giphy.gif&ct=s" width="380" height="320"/>
 =============================
 Aspiring UI/Frontend Developer from in New York City, NY. 
 ------------------------------
-* 🔭  I’m currently working on a reading list tracker website called WILOFF [link] (link)
-* 🤝  I’m looking to collaborate on creative projects related to education, inclusivity and lifestyle improving technology.
-* 🌱  I’m currently learning Figma and Procreate.
-* 💬  Ask me about...Anything
-* ✉️  You can contact me at [pamelamortizr@gmail.com](mailto:pamelamortizr@gmail.com)
-* 👨‍💻  All of my projects are available at [link] (link)
-* 📄  Learn more about my experiences [link] (link)
-* 💡  Fun fact: I am a native Spanish and English speaker, currently learning intermediate Japanese and Portuguese.
+* I’m currently working on a reading list tracker website called WILOFF [link] (link)
+* I’m looking to collaborate on creative projects related to education, inclusivity and lifestyle improving technology.
+* I’m currently learning Figma and Procreate.
+* Ask me about...Anything
+* You can contact me at [pamelamortizr@gmail.com](mailto:pamelamortizr@gmail.com)
+* All of my projects are available at [link] (link)
+* Learn more about my experiences [link] (link)
+* Fun fact: I am a native Spanish and English speaker, currently learning intermediate Japanese and Portuguese.
 
 ### Skills
 
