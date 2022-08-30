@@ -2,13 +2,13 @@
 <h1 align="center">My name is Pamela Ortiz (she/they)</h1>
 <h2 align="center">✨Aspiring UI/Front-end Developer from New York City, NY✨</h2>
 
-* I’m currently working on a reading list tracker website called WILOFF [link] (link)
+* I’m currently working on a reading list tracker website called WILOFF.
 * I’m looking to collaborate on creative projects related to education, inclusivity and lifestyle improving technology.
-* I’m currently learning Figma and Procreate.
+* I’m currently learning Figma and Python.
 * Ask me about...Anything
 * You can contact me at [pamelamortizr@gmail.com](mailto:pamelamortizr@gmail.com)
-* All of my projects are available at [link] (link)
-* Learn more about my experiences [link] (link)
+* A link to all of my projects will be available soon
+* Learn more about my experiences in my website -- will be available soon
 * Fun fact: I am a native Spanish and English speaker, currently learning intermediate Japanese and Portuguese.
 
 ### Skills =============================
