@@ -2,17 +2,14 @@
 <h1 align="center">My name is Pamela Ortiz (she/they)</h1>
 <h2 align="center">✨Aspiring UI/Front-end Developer from New York City, NY✨</h2>
 
-* I’m currently working on a reading list tracker website called WILOFF.
-* I’m looking to collaborate on creative projects related to education, inclusivity and lifestyle improving technology.
-* I’m currently learning Figma and Python.
-* Ask me about...Anything
+* I’m currently working on building my first personal website from scratch.
+* I’m looking to collaborate on creative projects related to education, inclusivity, accessability or lifestyle improving technology.
+* I’m currently learning HTML/CSS and JavaScript.
+* Ask me about...Anything!
 * You can contact me at [pamelamortizr@gmail.com](mailto:pamelamortizr@gmail.com)
-* A link to all of my projects will be available soon
-* Learn more about my experiences in my website -- will be available soon
+* A link to my personal website and my projects will be available soon...
+* Learn more about my experiences on my personal website -- will be made available soon...
 * Fun fact: I am a native Spanish and English speaker, currently learning intermediate Japanese and Portuguese.
-
-### Skills =============================
-<p align="left"> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> 
 
 ### Socials =============================  
 
