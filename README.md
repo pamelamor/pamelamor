@@ -1,5 +1,5 @@
 ![MasterHead](banner.png) 
-<h1 align="center">My name is Pamela Ortiz (she/they)</h1>
+<h2 align="center">My name is Pamela Ortiz (she/they)</h1>
 <h2 align="center">✨Aspiring Full-Stack Developer from New York City, NY✨</h2>
 
 * I’m currently working on building my personal portfolio website and a new studying app called Studybit.
