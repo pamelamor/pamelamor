@@ -1,6 +1,6 @@
 ![MasterHead](banner.png) 
 <h2 align="center">My name is Pamela Ortiz (she/they)</h1>
-<h2 align="center">✨Aspiring Full-Stack Developer from New York City, NY✨</h2>
+<h2 align="center"> Aspiring Full-Stack Developer from New York City, NY</h2>
 
 * I’m currently working on building my personal portfolio website and a new studying app called Studybit.
 * I’m looking to collaborate on creative projects related to education, inclusivity, accessability or lifestyle improving technology.
